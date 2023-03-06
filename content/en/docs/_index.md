@@ -6,7 +6,6 @@ menu:
   main:
     weight: 10
 ---
-CHANGED
 {{% pageinfo color="primary" %}}
 This is a placeholder page that shows you how to use this template site.
 {{% /pageinfo %}}
