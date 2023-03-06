@@ -24,6 +24,7 @@ user_interface:
   breadcrumb_disable: false
   taxonomy_breadcrumb_disable: false
   readingtime: false
+  page_meta_links_disabled: false
   feedback:
     enable: true
     yes_message: >-
@@ -33,6 +34,8 @@ user_interface:
       Sorry to hear that. Please tell us [how we can
       improve](https://github.com/USERNAME/REPOSITORY/issues/new).
 sidebar:
+  collapsed_sidebar_title: Menu
+  collapsed_sidebar_icon_centered: false
   sidebar_menu_foldable: false
   sidebar_search_disable: false
   sidebar_menu_compact: false
